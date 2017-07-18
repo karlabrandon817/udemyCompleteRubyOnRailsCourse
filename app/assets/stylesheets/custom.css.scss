@@ -30,10 +30,11 @@ $navbar-default-bg: #7487a5;
 .jumbotron h1{
   color: #000711;
   text-align: center;
-  padding-bottom: 1.7em;
+  padding-bottom: 1em;
   letter-spacing: -1.5px;
   font-family: arial, sans-serif;
   font-weight: bold;
+  font-size: 6em;
 }
 
 .btn-xlarge{
@@ -53,6 +54,15 @@ $navbar-default-bg: #7487a5;
 
 .navbar-links:hover{
   color: #3a3838 !important;
+}
+
+.article-actions{
+  border-top: 1px solid #e8ebef;
+  padding-top: .5em;
+}
+
+.description{
+  margin-top: 0;
 }
 
 footer{
