@@ -59,11 +59,32 @@ $navbar-default-bg: #7487a5;
 .article-actions{
   border-top: 1px solid #e8ebef;
   padding-top: .5em;
-  text-align: center;
+}
+
+.article-title{
+  font-weight: bold;
+  font-size: 1.5em;
+  font-family: arial, sans-serif;
+  padding-bottom: .3em;
+}
+
+.article-body{
+  font-family: arial, sans-serif;
+  border-top: 1px solid #e8ebef;
+  padding-top: .5em;
+  padding-bottom: .5em;
+}
+
+.article-btns{
+  margin-top: .3em;
 }
 
 .description{
   margin-top: 0;
+}
+
+.page-title{
+  font-family: arial, sans-serif;
 }
 
 footer{
