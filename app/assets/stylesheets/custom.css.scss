@@ -25,6 +25,7 @@ $navbar-default-bg: #7487a5;
    background-image: asset-url('wood.jpg'); 
    background-size: cover;
    height: 550px;
+   margin-top: 20px;
 }
 
 .jumbotron h1{
@@ -88,7 +89,7 @@ $navbar-default-bg: #7487a5;
 }
 
 footer{
-  margin-top: 45px;
+  margin-top: 20px;
   padding-top: 5px;
   border-top: 1px solid #e8ebef;
 }
