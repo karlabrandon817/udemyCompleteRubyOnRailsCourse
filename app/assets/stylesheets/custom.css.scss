@@ -47,6 +47,7 @@ $navbar-default-bg: #7487a5;
   font-size: 1.5em;
   font-family: arial, sans-serif;
   padding-bottom: .3em;
+  list-style: none;
 }
 
 .btn-xlarge {
@@ -85,6 +86,9 @@ $navbar-default-bg: #7487a5;
   font-size: 6em;
 }
 
+.listing {
+  padding-left: 0px;
+}
 .navbar-links {
   color: black !important;
 }
