@@ -47,8 +47,12 @@ $navbar-default-bg: #7487a5;
   font-size: 1.5em;
   font-family: arial, sans-serif;
   padding-bottom: .3em;
-  list-style: none;
 }
+
+.badge {
+  background-color: #cedfee;
+  text-transform: uppercase;
+}  
 
 .btn-xlarge {
   font-size: 1.5em;
@@ -67,6 +71,10 @@ $navbar-default-bg: #7487a5;
 
 .description {
   margin-top: 0;
+}
+
+.input_checkbox input{
+  width: auto !important;
 }
 
 .jumbotron {
@@ -134,4 +142,8 @@ footer ul li {
   float: left;
   margin-left: 15px;
   font-size: 12px;
+}
+
+li {
+  list-style: none;
 }
